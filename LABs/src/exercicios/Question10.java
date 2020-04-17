@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Question10 {
 
 	public static void main(String[] args) {
+//Converter celsius em Fahrenheit
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Digite a temperatura em Celsius: ");
 		double tempCelsius = teclado.nextDouble();

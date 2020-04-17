@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Question08 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// pedir as horas trabalhadas, valor ganho por horas e dizer o salarios
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Quanto você ganha por hora: ");
 		double valorPorHorasTrabalhadas = teclado.nextDouble();
