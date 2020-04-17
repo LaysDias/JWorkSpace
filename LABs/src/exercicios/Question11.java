@@ -13,7 +13,15 @@ public class Question11 {
 		System.out.println("Digite o numero real: ");
 		double numeroReal = teclado.nextDouble();
 		double soma = numero1+numero2+numeroReal;
-		System.out.println(soma);
+		
+		int resultado1 = (numero1 * 2) * (numero2 / 2);
+		double resultado2 = (numero1 * 3 ) + numeroReal;
+		double resultado3 = Math.pow(numeroReal, 3);
+		
+		System.out.println("Resultado 1: " + resultado1);
+		System.out.println("Resultado 2: " + resultado2);
+		System.out.println("Resultado 3: " + resultado3);
+		
 	}
 
 }
