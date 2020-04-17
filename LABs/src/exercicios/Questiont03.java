@@ -3,9 +3,8 @@ package exercicios;
 import java.util.Scanner;
 
 public class Questiont03 {
-
+	// Pedir dois numeros e imprimi a soma entre eles
 	public static void main(String[] args) {
-		//Pedir dois numeros e imprimi a soma entre eles
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Digite o primeiro numero: ");
 		int numero1 = teclado.nextInt();
