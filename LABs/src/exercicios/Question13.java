@@ -23,6 +23,5 @@ public class Question13 {
 		System.out.println("Total de descontos: " + totalDescontos);
 		System.out.println("Salario liquido: " + salarioLiquido);
 		
-	}
-
+	} 
 }
