@@ -1,4 +1,4 @@
-package exercicios;
+package lista01;
 
 public class Question01 {
 
